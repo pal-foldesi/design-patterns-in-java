@@ -1,0 +1,1 @@
+# Some well-known design patterns, implemented in Java.
